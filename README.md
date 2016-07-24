@@ -1,3 +1,7 @@
+This is an extension of [http://karloespiritu.github.io/Bastard](http://karloespiritu.github.io/Bastard)
+
+
+
 Bastard Theme for Ghost
 ==================
 
@@ -12,11 +16,7 @@ Bastard theme was built using [Bootstrap 3](http://getbootstrap.com/), [SASS](ht
 
 ## Demo
 
-I'm using this theme for my personal site, [karloespiritu.com](http://karloespiritu.com)
 
-## Download
-
-You can download the theme here: [http://karloespiritu.github.io/Bastard](http://karloespiritu.github.io/Bastard)
 
 ## Theme Features
 
@@ -68,18 +68,7 @@ Bastard theme uses Gulp to lint, compile, and concatenate the javascript and [SA
 - [HighlightJs - Syntax highlighting for the Web](http://highlightjs.org)
 - [FitVids.Js - A lightweight, easy-to-use jQuery plugin for fluid width video embeds](http://fitvidsjs.com/)
 
-## To Get in Touch
-
-To get in touch, you can drop me an [email](mailto:karloespiritu.com) or find me on [Twitter](http://twitter.com/karloespiritu).
 
 ## License
 
 MIT License
-
-## Author
-
-**Karlo Espiritu**
-- [karloespiritu@gmail.com](mailto:karloespiritu@gmail.com)
-- [http://twitter.com/karloespiritu](https://twitter.com/karloespiritu)
-- [http://github.com/karloespiritu](https://github.com/karloespiritu)
-- [http://karloespiritu.com](http://karloespiritu.com)
