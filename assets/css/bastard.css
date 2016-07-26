@@ -7578,6 +7578,15 @@ h1.post-title {
   padding: 0;
   background: transparent; }
 
+code, tt {
+  padding: .2rem .3rem .1rem;
+  border: 1px solid #d8e0e4;
+  border-radius: 2px;
+  color: #c25;
+  white-space: pre-wrap;
+  font-size: .8em;
+  line-height: 1em; }
+
 /* ==========================================================================
    16. Media Queries - Smaller than 900px
    ========================================================================== */
