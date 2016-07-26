@@ -6409,12 +6409,12 @@ h6 {
   font-size: 2rem; }
 
 a {
-  color: #ffeb99;
+  color: #337ab7;
   -webkit-transition: color ease 0.3s;
           transition: color ease 0.3s; }
 
 a:hover {
-  color: #caad00; }
+  color: #a94442; }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   color: #50585D; }
@@ -6847,7 +6847,7 @@ navbar {
   margin: 1.6rem 0 0 0;
   font-size: 0.95em;
   line-height: 1.6em;
-  color: #999999; }
+  color: #333; }
 
 .post-meta {
   display: inline-block;
@@ -7004,7 +7004,7 @@ h1.post-title {
 /* Insert some mad padding up in the header for better spacing */
 /* Keep images centred and within the bounds of the post-width */
 .post-content {
-  color: #999999; }
+  color: #333; }
 
 .post-content img {
   display: block;

@@ -71,10 +71,10 @@ h6 {
 }
 
 a {
-  color: $yellow-light;
+  color: $dark-blue;
   transition: color ease 0.3s;
   &:hover {
-    color: $yellow-dark;
+    color: $dark-red;
   }
 }
 
