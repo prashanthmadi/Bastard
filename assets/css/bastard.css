@@ -7556,14 +7556,15 @@ h1.post-title {
   15.  HighlightJs
        Custom styles for HighlightJs
    ========================================================================== */
+.hljs {
+  background: #f7fafb; }
+
 code, tt {
-  display: block;
-  padding: 20px;
-  font-size: 0.7em;
+  padding: 3px;
+  font-size: 0.8em;
   border: 1px solid #eee;
   border-radius: 4px;
   background: #fafafa;
-  font-family: monospace,monospace;
   white-space: pre-wrap;
   line-height: 1em; }
 
