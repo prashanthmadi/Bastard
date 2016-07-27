@@ -2,13 +2,13 @@
  * Bastard-new - A Boilerplate Theme for Ghost using Twitter Bootstrap, Font Awesome Icons, SASS, Bower, and Gulp
  * @version v1.4.0
  * @homepage https://github.com/karloespiritu/Bastard
- * @copyright 2016 Karlo Espiritu 
+ * @copyright 2016 Prashanth Madi 
  * @license MIT
  */
 
 /*
 
-Railscasts-like style (c) Visoft, Inc. (Damien White)
+XCode style (c) Angel Garcia <angelgarcia.mail@gmail.com>
 
 */
 
@@ -16,101 +16,88 @@ Railscasts-like style (c) Visoft, Inc. (Damien White)
   display: block;
   overflow-x: auto;
   padding: 0.5em;
-  background: #232323;
-  color: #e6e1dc;
+  background: #fff;
+  color: black;
 }
 
 .hljs-comment,
 .hljs-quote {
-  color: #bc9458;
-  font-style: italic;
+  color: #006a00;
 }
 
 .hljs-keyword,
-.hljs-selector-tag {
-  color: #c26230;
+.hljs-selector-tag,
+.hljs-literal {
+  color: #aa0d91;
 }
 
-.hljs-string,
-.hljs-number,
-.hljs-regexp,
+.hljs-name {
+  color: #008;
+}
+
 .hljs-variable,
 .hljs-template-variable {
-  color: #a5c261;
+  color: #660;
 }
 
-.hljs-subst {
-  color: #519f50;
+.hljs-string {
+  color: #c41a16;
 }
 
-.hljs-tag,
-.hljs-name {
-  color: #e8bf6a;
-}
-
-.hljs-type {
-  color: #da4939;
-}
-
-
-.hljs-symbol,
-.hljs-bullet,
-.hljs-built_in,
-.hljs-builtin-name,
-.hljs-attr,
+.hljs-regexp,
 .hljs-link {
-  color: #6d9cbe;
-}
-
-.hljs-params {
-  color: #d0d0ff;
-}
-
-.hljs-attribute {
-  color: #cda869;
-}
-
-.hljs-meta {
-  color: #9b859d;
+  color: #080;
 }
 
 .hljs-title,
-.hljs-section {
-  color: #ffc66d;
+.hljs-tag,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-number,
+.hljs-meta {
+  color: #1c00cf;
+}
+
+.hljs-section,
+.hljs-class .hljs-title,
+.hljs-type,
+.hljs-attr,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-params {
+  color: #5c2699;
+}
+
+.hljs-attribute,
+.hljs-subst {
+  color: #000;
+}
+
+.hljs-formula {
+  background-color: #eee;
+  font-style: italic;
 }
 
 .hljs-addition {
-  background-color: #144212;
-  color: #e6e1dc;
-  display: inline-block;
-  width: 100%;
+  background-color: #baeeba;
 }
 
 .hljs-deletion {
-  background-color: #600;
-  color: #e6e1dc;
-  display: inline-block;
-  width: 100%;
+  background-color: #ffc8bd;
 }
 
+.hljs-selector-id,
 .hljs-selector-class {
   color: #9b703f;
 }
 
-.hljs-selector-id {
-  color: #8b98ab;
-}
-
-.hljs-emphasis {
-  font-style: italic;
-}
-
+.hljs-doctag,
 .hljs-strong {
   font-weight: bold;
 }
 
-.hljs-link {
-  text-decoration: underline;
+.hljs-emphasis {
+  font-style: italic;
 }
 
 @charset "UTF-8";
@@ -7569,12 +7556,6 @@ h1.post-title {
   15.  HighlightJs
        Custom styles for HighlightJs
    ========================================================================== */
-.hljs {
-  white-space: pre;
-  word-wrap: normal;
-  padding: 0;
-  background: transparent; }
-
 code, tt {
   display: block;
   padding: 20px;

@@ -34,7 +34,7 @@ var files = {
           'assets/js/bastard.js'
           ],
     sass: ['assets/sass/**/*.scss'],
-    css:  ['assets/bower_components/highlightjs/styles/railscasts.css',
+    css:  ['assets/bower_components/highlightjs/styles/xcode.css',
            'assets/css/compiled_sass.css'
           ],
     js:   ['assets/bower_components/bootstrap/dist/js/bootstrap.js',

@@ -2,7 +2,7 @@
  * Bastard-new - A Boilerplate Theme for Ghost using Twitter Bootstrap, Font Awesome Icons, SASS, Bower, and Gulp
  * @version v1.4.0
  * @homepage https://github.com/karloespiritu/Bastard
- * @copyright 2016 Karlo Espiritu 
+ * @copyright 2016 Prashanth Madi 
  * @license MIT
  */
 
