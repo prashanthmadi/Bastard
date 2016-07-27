@@ -7576,12 +7576,14 @@ h1.post-title {
   background: transparent; }
 
 code, tt {
-  padding: .2rem .3rem .1rem;
-  border: 1px solid #d8e0e4;
-  border-radius: 2px;
-  color: #c25;
+  display: block;
+  padding: 20px;
+  font-size: 0.7em;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  background: #fafafa;
+  font-family: monospace,monospace;
   white-space: pre-wrap;
-  font-size: .8em;
   line-height: 1em; }
 
 /* ==========================================================================
