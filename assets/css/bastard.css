@@ -6989,7 +6989,7 @@ h1.post-title {
   display: none; }
 
 .post-template .post-header {
-  padding: 60px 0;
+  padding: 0 0 60px 0;
   text-align: center; }
 
 .post-template .blog-title {
@@ -7017,9 +7017,6 @@ h1.post-title {
   width: 126%;
   max-width: none;
   margin: 0 -13%; }
-
-.post-content code {
-  color: #666666; }
 
 /* Break out larger images to be wider than the main text column
    the class is applied with jQuery */

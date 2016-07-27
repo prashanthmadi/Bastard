@@ -23,7 +23,7 @@ h1.post-title {
     }
   }
   .post-header {
-    padding: 60px 0;
+    padding: 0 0 60px 0;
     text-align: center;
   }
   .blog-title {
@@ -56,9 +56,6 @@ h1.post-title {
     width: 126%;
     max-width: none;
     margin: 0 -13%;
-  }
-  code {
-    color: $gray-darker;
   }
 }
 
