@@ -12,9 +12,8 @@ A free boilerplate responsive theme for [Ghost](https://ghost.org) blogging plat
 
 Bastard theme was built using [Bootstrap 3](http://getbootstrap.com/), [SASS](http://sass-lang.com), [Font Awesome](http://fortawesome.github.io/Font-Awesome/), [Bower](http://bower.io/), and [Gulp](http://gulpjs.com/). Gulp is used to automate tasks for compiling and minifying the theme components and Bower to manage package dependencies. You can use the theme as is, or customize it by editing the `bastard.js` and `/assets/sass/*.scss` files.
 
-![Bastard](http://f.cl.ly/items/3f2X3p2K2A1E1z263k2K/bastard-sample2.png)
 
-## Demo
+## Demo : http://techiecouple.azurewebsites.net/
 
 
 
